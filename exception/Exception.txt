@@ -15,3 +15,5 @@ git Pull & Request
     6.4 git pull origin develop (develop 에 머지를 다 했으니까 ㅇㅇ)
 아마 머지는 나중에 master 만 할 듯?
 7. develop 파일에 머지 (백업 파일? 느낌에다가 그니까 메인 전에 들어가는 단계 ㅇㅇ)
+
+test test
