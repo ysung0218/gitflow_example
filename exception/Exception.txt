@@ -1,2 +1,21 @@
 Exception 등장이요 !!
 git 어려워 ㅜㅜ
+
+git Pull & Request
+1. git issue 생성 (넘버 확인)
+2. git branch 생성 (이슈 넘버대로)
+3. 내용 수정
+4. git add .
+5. git commit & push
+6. git pull & request 링크 ㄱㄱ
+    6.1 git issue 에 push 내용 작성
+    머지 되고 난 후에
+    6.2 git branch 생성
+    6.3 git branch 이전 꺼 삭제
+    6.4 git pull origin develop (develop 에 머지를 다 했으니까 ㅇㅇ)
+아마 머지는 나중에 master 만 할 듯?
+7. develop 파일에 머지 (백업 파일? 느낌에다가 그니까 메인 전에 들어가는 단계 ㅇㅇ)
+
+test test
+
+세번쨰 try............
